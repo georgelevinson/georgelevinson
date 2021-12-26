@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georgelevinson
-- 👀 I’m interested in backend web development with ASP.NET
-- 🌱 I’m currently learning to query Microsoft SQL Server
+- 👀 I’m interested in backend web development with ASP.NET and embedded development with C
 - 📫 How to reach me: gosha.levinson@gmail.com
 
 <!---
