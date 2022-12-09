@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgelevinson
-- 👀 I’m interested in backend web development with ASP.NET and embedded development with C
+- 👀 I’m interested embedded development with C and electronics
 - 📫 How to reach me: gosha.levinson@gmail.com
 
 <!---
